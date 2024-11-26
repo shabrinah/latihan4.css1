@@ -1,5 +1,5 @@
 body{
-	background-image:url(images/kupu2.jpeg);
+	background-image:url('kupu2.jpeg');
 }
 #tampilan{
 	background-color: rgba(80, 73, 51, 0.5);
